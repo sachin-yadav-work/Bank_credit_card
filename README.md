@@ -74,8 +74,7 @@ Voltrix Bank is planning to launch a new credit card in the Indian market. As th
 
 ```
 ├── Bank_credit_card_launch_SachinYadav.ipynb  # Main notebook with EDA, segmentation, and A/B testing
-├── data/                                      # (If applicable) Directory for datasets
-├── images/                                    # (If applicable) Visualizations and plots
+├── data                                       # Data
 └── README.md                                  # Project documentation
 ```
 
